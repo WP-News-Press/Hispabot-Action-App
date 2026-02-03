@@ -1,16 +1,23 @@
-# Hispabot-Action-App
-Hispabot & Sutita Rimay Ecosystem 2026
-Project Lead: Elvis Herrada (CEO WP News)
+Hispabot & Sutita Rimay: The Action Journalism Ecosystem 🗽🤖
+By Elvis Herrada | CEO & Founder at WP News
 
-Project Vision
-This repository houses the first Action-Driven News Product for the Hispanic community in Westchester, NY. We are transforming the "reader" into an "actor" through AI.
+This repository contains the core technology for WP News, a pioneer "News Product" in Westchester, NY. We transform traditional reporting into Actionable Solutions for the Hispanic community using AI.
 
-Modules Included:
-Hispabot: AI assistant for legal, health, and labor solutions.
+🚀 Core Modules
+Hispabot: An AI-driven service assistant (Gemini API) that connects users with legal, health, and employment resources.
 
-Sutita Rimay: Fact-checking engine to combat misinformation (Spanglish optimized).
+Sutita Rimay: A real-time fact-checking engine ("Speak the Truth" in Quechua) to combat misinformation.
 
-Impact Metrics:
-426% growth in community reach.
+📈 Impact & Traction
+426% Growth in social reach.
 
-100% engagement rate in service interactions.
+100% Engagement in service-oriented AI sessions.
+
+Recognized by: RJI Missouri (Rural Revenue Workshop) & News Product Alliance.
+
+🛠 Tech Stack
+Frontend: React + TypeScript + Vite.
+
+Styling: Tailwind CSS (Gemas Style).
+
+AI Engine: Google Gemini AI.

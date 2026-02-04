@@ -1,23 +1,23 @@
-Hispabot & Sutita Rimay: The Action Journalism Ecosystem 🗽🤖
-By Elvis Herrada | CEO & Founder at WP News
+# Hispabot: AI-Powered Assistant for the Hispanic Community in NY 🗽🤝
 
-This repository contains the core technology for WP News, a pioneer "News Product" in Westchester, NY. We transform traditional reporting into Actionable Solutions for the Hispanic community using AI.
+**Hispabot** is an intelligent service application designed to empower the Hispanic immigrant community in New York and Westchester County. It filters and provides verified, practical, and free information on essential services like employment, health, and immigration.
 
-🚀 Core Modules
-Hispabot: An AI-driven service assistant (Gemini API) that connects users with legal, health, and employment resources.
+## 🚀 The Mission: From Information to Action
+Developed by **White Plains News**, Hispabot solves the "information vacuum" that many immigrants face. It prevents scams and misinformation by providing only vetted resources from trusted government and non-profit organizations.
 
-Sutita Rimay: A real-time fact-checking engine ("Speak the Truth" in Quechua) to combat misinformation.
+## 🛠️ Key Features
+* **Verified Resource Filtering:** Real-time access to job banks, community health clinics, and legal aid.
+* **Anti-Scam Protection:** Uses the "Fact-Checking" DNA of our newsroom to ensure no fraudulent services reach the user.
+* **Bilingual & Accessible:** Designed with a user-friendly interface for the Hispanic community, regardless of their tech literacy level.
+* **Humanized AI:** Features "Hispabot," a relatable AI assistant (inspired by the successful Hostinger help model) that assists users in their own language.
 
-📈 Impact & Traction
-426% Growth in social reach.
+## 🏆 Backing & Vision
+* **Powered by WP News:** The first "Action Journalism" hub in Westchester.
+* **Innovation:** Bridging the gap between high-end AI technology and grassroots community needs.
+* **Civic Tech:** A tool designed for social mobility and the protection of immigrant rights in the United States.
 
-100% Engagement in service-oriented AI sessions.
+## 👤 About the Developer
+**Elvis Franks Herrada Erquiaga** *CEO & Founder of White Plains News | News Product Leader | Fellow ICFJ* Elvis has applied his 28 years of investigative experience in Peru and the US to build a safe digital harbor for those who need it most.
 
-Recognized by: RJI Missouri (Rural Revenue Workshop) & News Product Alliance.
-
-🛠 Tech Stack
-Frontend: React + TypeScript + Vite.
-
-Styling: Tailwind CSS (Gemas Style).
-
-AI Engine: Google Gemini AI.
+---
+**White Plains News: Noticias que te empoderan — News that empowers you.**

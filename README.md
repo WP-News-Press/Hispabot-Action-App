@@ -1,23 +1,36 @@
-# Hispabot: AI-Powered Assistant for the Hispanic Community in NY 🗽🤝
+# 🤖 HISPABOT: ASISTENTE DE IA PARA LA COMUNIDAD HISPANA EN NY 🗽🤝
 
-**Hispabot** is an intelligent service application designed to empower the Hispanic immigrant community in New York and Westchester County. It filters and provides verified, practical, and free information on essential services like employment, health, and immigration.
-
-## 🚀 The Mission: From Information to Action
-Developed by **White Plains News**, Hispabot solves the "information vacuum" that many immigrants face. It prevents scams and misinformation by providing only vetted resources from trusted government and non-profit organizations.
-
-## 🛠️ Key Features
-* **Verified Resource Filtering:** Real-time access to job banks, community health clinics, and legal aid.
-* **Anti-Scam Protection:** Uses the "Fact-Checking" DNA of our newsroom to ensure no fraudulent services reach the user.
-* **Bilingual & Accessible:** Designed with a user-friendly interface for the Hispanic community, regardless of their tech literacy level.
-* **Humanized AI:** Features "Hispabot," a relatable AI assistant (inspired by the successful Hostinger help model) that assists users in their own language.
-
-## 🏆 Backing & Vision
-* **Powered by WP News:** The first "Action Journalism" hub in Westchester.
-* **Innovation:** Bridging the gap between high-end AI technology and grassroots community needs.
-* **Civic Tech:** A tool designed for social mobility and the protection of immigrant rights in the United States.
-
-## 👤 About the Developer
-**Elvis Franks Herrada Erquiaga** *CEO & Founder of White Plains News | News Product Leader | Fellow ICFJ* Elvis has applied his 28 years of investigative experience in Peru and the US to build a safe digital harbor for those who need it most.
+**Hispabot** es una aplicación de servicio inteligente diseñada para empoderar a la comunidad inmigrante en New York y el Condado de Westchester. Filtra y proporciona información verificada, práctica y gratuita sobre servicios esenciales.
 
 ---
-**White Plains News: Noticias que te empoderan — News that empowers you.**
+
+### 📸 INTERFAZ Y FUNCIONAMIENTO REAL
+![Hispabot Interface](./hispabot_funcionando.png)
+*Interfaz de Hispabot Noticias: Exploración por temas críticos como Migración, Empleo, Rentas y Salud.*
+
+---
+
+## 🚀 LA MISIÓN: DE LA INFORMACIÓN A LA ACCIÓN
+Desarrollado por **WP News**, Hispabot resuelve el "vacío informativo" que enfrentan muchos inmigrantes. Su objetivo es prevenir estafas y desinformación entregando recursos verificados de organizaciones gubernamentales y sin fines de lucro de confianza.
+
+## 🛠️ CARACTERÍSTICAS CLAVE
+* **Filtro de Recursos Verificados:** Acceso directo a bolsas de trabajo, clínicas de salud y asesoría legal.
+* **Protección Anti-Estafas:** Basado en el rigor de nuestra redacción para evitar servicios fraudulentos.
+* **IA Humanizada:** Un asistente cercano (Hispabot TV) que guía al usuario en su propio idioma.
+* **Bilingüe y Accesible:** Optimizado para la realidad cultural de Westchester y NYC.
+
+🎬 **MIRA EL VIDEO TUTORIAL:** [[AQUÍ VA TU LINK DE VIDEO]](https://youtube.com/shorts/6QaWLjgrFk0?si=f0GA-yR2mkBKxqYG) 🎥
+
+## 🏛️ RESPALDO Y VALIDACIÓN ESTRATÉGICA
+El desarrollo de Hispabot está integrado en un ecosistema de innovación periodística global:
+* **Missouri RJI Fellow 2026:** Parte de la validación académica dentro de la **University of Missouri**.
+* **News Product Alliance (NPA):** Desarrollado bajo estándares internacionales de ética y producto.
+
+## 👨‍💻 PERFIL DEL DESARROLLADOR
+**Elvis Herrada** – CEO de WP News.
+* **Missouri RJI Fellow 2026**.
+* **Miembro de la News Product Alliance (NPA)**.
+* **Especialista en "Disarming Disinformation"** (Knight Center, UT Austin).
+* **Postgrados:** IA en Periodismo (UDEP), Microfinanzas (ESAN) y Gestión de Comunidades (UNMSM).
+
+**White Plains News, noticias que te empoderan.** 🏛️🚀
